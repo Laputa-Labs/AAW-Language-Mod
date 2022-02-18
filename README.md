@@ -68,8 +68,7 @@ There're several ways to fix a locale text wider than desired UI length. The mos
 The AAW Language Mod by Laputa Labs is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit
 http://creativecommons.org/licenses/by-nc-sa/4.0/
 
-![cc-by-nc-sa](images/by-nc-sa.eu.svg)  
-
+![cc-by-nc-sa](images/by-nc-sa.eu.svg)
 
 
 
