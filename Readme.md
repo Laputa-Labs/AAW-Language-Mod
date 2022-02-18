@@ -1,4 +1,4 @@
-# AAW Language Mod
+﻿# AAW Language Mod
 
 AAW Language Mod is an official mod for adding / customizing locale data for the game Alan's Automaton Workshop.
 
@@ -29,7 +29,7 @@ Please noted that AAW is using [.Net language / region names](https://docs.micro
 
 For Adding Japanese option into the mod, create a _ja-jp_ folder and insert the following line into Languages.xml
 ```
-  <lang id="ja-jp">�饻�y</lang>
+  <lang id="ja-jp">日本語</lang>
 ``` 
 
 
