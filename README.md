@@ -8,7 +8,7 @@ Discord: https://discord.gg/r4P569Rc
 
 ## Installation
 
-1. Find the 'Alan's Automaton Workshop_Data/Localization/' folder inside the game folder.
+1. For **Windows and Linux users**, find the ```Alan's Automaton Workshop_Data/Localization/``` folder inside the game folder. And for **Mac** users, find the ```Contents/Localization/``` inside app bundle of the game.
 
 2. Copy all the files in this repository to the folder.
 
@@ -27,7 +27,7 @@ Please noted that AAW is using [.Net language / region names](https://docs.micro
 
 ##### Example:
 
-For Adding Japanese option into the mod, create a _ja-jp_ folder and insert the following line into Languages.xml
+For Adding Japanese option into the mod, create a ```ja-jp``` folder and insert the following line into Languages.xml
 ```
   <lang id="ja-jp">日本語</lang>
 ``` 
@@ -65,7 +65,7 @@ There're several ways to fix a locale text wider than desired UI length. The mos
 
 ## License
 
-The AAW Language Mod by Laputa Labs is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit
+The AAW Language Mod by Laputa Labs is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, please visit
 http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ![cc-by-nc-sa](images/by-nc-sa.eu.svg)
